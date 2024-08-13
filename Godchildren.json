@@ -1,24 +1,69 @@
 {
   "godchildren": [
     {
-      "id": "30",
-      "nom": "Hernandez",
-      "prenom": "Cleopatre",
+      "id": "50",
+      "nom": "Dupont",
+      "prenom": "Jean",
+      "email": "dupont.jean@example.com",
+      "ville": "Paris",
+      "phone": "0634567890",
+      "github": "<a href='https://github.com/jeandupont' class='hover:underline'>jeandupont</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/jeandupont/' class='hover:underline'>jeandupont</a>",
+      "joker": "2",
+      "journay": "DEV++",
+      "season": "automne",
+      "year": "2023",
+      "job": "Ingénieur",
+      "company": "TechCorp"
     },
     {
       "id": "89",
       "nom": "Lefevre",
       "prenom": "Sophie",
+      "email": "lefevre.sophie@example.com",
+      "ville": "Bordeaux",
+      "phone": "0667890123",
+      "github": "<a href='https://github.com/sophielefevre' class='hover:underline'>sophielefevre</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/sophielefevre/' class='hover:underline'>sophielefevre</a>",
+      "joker": "3",
+      "journay": "DEV++",
+      "season": "printemps",
+      "year": "2024",
+      "job": "Manager",
+      "company": "RetailCorp"
     },
     {
       "id": "90",
       "nom": "Bernard",
       "prenom": "Luc",
+      "email": "bernard.luc@example.com",
+      "ville": "Nice",
+      "phone": "0678901234",
+      "github": "<a href='https://github.com/lucbernard' class='hover:underline'>lucbernard</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/lucbernard/' class='hover:underline'>lucbernard</a>",
+      "joker": "1",
+      "journay": "DEV",
+      "season": "automne",
+      "year": "2023",
+      "job": "Analyste",
+      "company": "FinanceCorp"
     },
     {
       "id": "115",
       "nom": "Garnier",
       "prenom": "Lucas",
+      "email": "garnier.lucas@example.com",
+      "ville": "Montpellier",
+      "phone": "0645678901",
+      "github": "<a href='https://github.com/lucasgarnier' class='hover:underline'>lucasgarnier</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/lucasgarnier/' class='hover:underline'>lucasgarnier</a>",
+      "joker": "1",
+      "journay": "FULLSTACK",
+      "season": "printemps",
+      "year": "2024",
+      "job": "Développeur",
+      "company": "TechCorp"
     },
+  
   ]
 }

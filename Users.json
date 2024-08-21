@@ -14,7 +14,11 @@
       "season": "hiver",
       "year": "2024",
       "job": "Etudiante",
-      "company": "THP"
+      "company": "THP",
+      "rank":"2",
+      "past_30_days":"2",
+      "points": 19000,
+      "helping_hand": 150
     },
     {
       "id": "2",
@@ -30,7 +34,11 @@
       "season": "été",
       "year": "2023",
       "job": "Développeur",
-      "company": "Freelance"
+      "company": "Freelance",
+      "rank":"3",
+      "past_30_days":"3",
+      "points": 1800,
+      "helping_hand": 200
     },
     {
       "id": "3",
@@ -46,7 +54,11 @@
       "season": "printemps",
       "year": "2024",
       "job": "Designer",
-      "company": "THP"
+      "company": "THP",
+      "rank":"4",
+      "past_30_days":"6",
+      "points": 1700,
+      "helping_hand": 140
     },
     {
       "id": "4",
@@ -62,7 +74,11 @@
       "season": "automne",
       "year": "2021",
       "job": "Formateur",
-      "company": "THP"
+      "company": "THP",
+      "rank":"1",
+      "past_30_days":"1",
+      "points": 2000000,
+      "helping_hand": 2000
     },
     {
       "id": "5",
@@ -74,11 +90,15 @@
       "github": "<a href='https://github.com/jeandupont' class='hover:underline'>jeandupont</a>",
       "linkedin": "<a href='https://www.linkedin.com/in/jeandupont/' class='hover:underline'>jeandupont</a>",
       "joker": "2",
-      "journey": "DEV++",
+      "journey": "INTRO",
       "season": "automne",
-      "year": "2023",
+      "year": "2019",
       "job": "Ingénieur",
-      "company": "TechCorp"
+      "company": "TechCorp",
+      "rank":"15",
+      "past_30_days":"19",
+      "points": 600,
+      "helping_hand": 50
     },
     {
       "id": "6",
@@ -89,12 +109,16 @@
       "phone": "0645678901",
       "github": "<a href='https://github.com/mariemartin' class='hover:underline'>mariemartin</a>",
       "linkedin": "<a href='https://www.linkedin.com/in/mariemartin/' class='hover:underline'>mariemartin</a>",
-      "joker": "1",
-      "journey": "DEV++",
+      "joker": "3",
+      "journey": "INTRO",
       "season": "hiver",
-      "year": "2024",
+      "year": "2020",
       "job": "Développeuse",
-      "company": "WebAgency"
+      "company": "WebAgency",
+      "rank":"20",
+      "past_30_days":"20",
+      "points": 10,
+      "helping_hand": 1
     },
     {
       "id": "7",
@@ -110,7 +134,11 @@
       "season": "été",
       "year": "2023",
       "job": "Consultant",
-      "company": "ConsultingFirm"
+      "company": "ConsultingFirm",
+      "rank":"9",
+      "past_30_days":"14",
+      "points": 1200,
+      "helping_hand": 10
     },
     {
       "id": "8",
@@ -126,7 +154,11 @@
       "season": "printemps",
       "year": "2024",
       "job": "Manager",
-      "company": "RetailCorp"
+      "company": "RetailCorp",
+      "rank":"6",
+      "past_30_days":"6",
+      "points": 1500,
+      "helping_hand": 15
     },
     {
       "id": "9",
@@ -142,7 +174,11 @@
       "season": "automne",
       "year": "2023",
       "job": "Analyste",
-      "company": "FinanceCorp"
+      "company": "FinanceCorp",
+      "rank": "5",
+      "past_30_days": "7",
+      "points": 1600,
+      "helping_hand": 26
     },
     {
       "id": "10",
@@ -158,7 +194,11 @@
       "season": "hiver",
       "year": "2024",
       "job": "Développeuse",
-      "company": "Startup"
+      "company": "Startup",
+      "rank": "8",
+      "past_30_days": "5",
+      "points": 1100,
+      "helping_hand": 34
     },
     {
       "id": "11",
@@ -174,7 +214,11 @@
       "season": "été",
       "year": "2023",
       "job": "Architecte",
-      "company": "DesignFirm"
+      "company": "DesignFirm",
+      "rank": "10",
+      "past_30_days": "11",
+      "points": 1000,
+      "helping_hand": 55
     },
     {
       "id": "12",
@@ -190,7 +234,11 @@
       "season": "printemps",
       "year": "2024",
       "job": "Développeuse",
-      "company": "TechStartup"
+      "company": "TechStartup",
+      "rank": "11",
+      "past_30_days": "12",
+      "points": 900,
+      "helping_hand": 69
     },
     {
       "id": "13",
@@ -206,7 +254,11 @@
       "season": "automne",
       "year": "2023",
       "job": "Ingénieur",
-      "company": "EngineeringCorp"
+      "company": "EngineeringCorp",
+      "rank": "12",
+      "past_30_days": "13",
+      "points": 800,
+      "helping_hand": 12
     },
     {
       "id": "14",
@@ -220,9 +272,13 @@
       "joker": "3",
       "journey": "DEV++",
       "season": "hiver",
-      "year": "2024",
+      "year": "2021",
       "job": "Développeuse",
-      "company": "WebAgency"
+      "company": "WebAgency",
+      "rank": "13",
+      "past_30_days": "15",
+      "points": 700,
+      "helping_hand": 12
     },
     {
       "id": "15",
@@ -238,7 +294,10 @@
       "season": "printemps",
       "year": "2024",
       "job": "Développeur",
-      "company": "TechCorp"
+      "company": "TechCorp",
+      "rank": "14",
+      "past_30_days": "16",
+      "points": 8
     },
     {
       "id": "16",
@@ -254,7 +313,91 @@
       "season": "été",
       "year": "2024",
       "job": "Développeuse",
-      "company": "HellCorp"
+      "company": "HellCorp",
+      "rank": "16",
+      "past_30_days": "17",
+      "points": 400,
+      "helping_hand": 5
+    },
+    {
+      "id": "17",
+      "nom": "Leroy",
+      "prenom": "Nathalie",
+      "email": "leroy.nathalie@example.com",
+      "ville": "Rouen",
+      "phone": "0612345678",
+      "github": "<a href='https://github.com/nathalieleroy' class='hover:underline'>nathalieleroy</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/nathalieleroy/' class='hover:underline'>nathalieleroy</a>",
+      "joker": "1",
+      "journey": "DEV++",
+      "season": "printemps",
+      "year": "2021",
+      "job": "Développeuse",
+      "company": "TechSolutions",
+      "rank": "17",
+      "past_30_days": "18",
+      "points": 300,
+      "helping_hand": 11
+    },
+    {
+      "id": "18",
+      "nom": "Dubois",
+      "prenom": "Antoine",
+      "email": "dubois.antoine@example.com",
+      "ville": "Grenoble",
+      "phone": "0623456789",
+      "github": "<a href='https://github.com/antoinedubois' class='hover:underline'>antoinedubois</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/antoinedubois/' class='hover:underline'>antoinedubois</a>",
+      "joker": "2",
+      "journey": "FULLSTACK",
+      "season": "été",
+      "year": "2019",
+      "job": "Ingénieur",
+      "company": "Innovatech",
+      "rank": "18",
+      "past_30_days": "4",
+      "points": 1700,
+      "helping_hand": 78
+    },
+    {
+      "id": "19",
+      "nom": "Morel",
+      "prenom": "Isabelle",
+      "email": "morel.isabelle@example.com",
+      "ville": "Dijon",
+      "phone": "0634567890",
+      "github": "<a href='https://github.com/isabellemorel' class='hover:underline'>isabellemorel</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/isabellemorel/' class='hover:underline'>isabellemorel</a>",
+      "joker": "3",
+      "journey": "DEV",
+      "season": "automne",
+      "year": "2020",
+      "job": "Consultante",
+      "company": "ConsultCorp",
+      "rank": "19",
+      "past_30_days": "8",
+      "points": 200,
+      "helping_hand": 35
+    },
+    {
+      "id": "20",
+      "nom": "Fontaine",
+      "prenom": "Julien",
+      "email": "fontaine.julien@example.com",
+      "ville": "Toulon",
+      "phone": "0645678901",
+      "github": "<a href='https://github.com/julienfontaine' class='hover:underline'>julienfontaine</a>",
+      "linkedin": "<a href='https://www.linkedin.com/in/julienfontaine/' class='hover:underline'>julienfontaine</a>",
+      "joker": "1",
+      "journey": "DEV++",
+      "season": "hiver",
+      "year": "2024",
+      "job": "Développeur",
+      "company": "WebSolutions",
+      "rank": "7",
+      "past_30_days": "10",
+      "points": 1400,
+      "helping_hand": 99
     }
   ]
 }
